@@ -303,6 +303,7 @@
 				1985BFB81E482C6B00A04312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
